@@ -1,0 +1,2 @@
+fonttools
+urllib3
