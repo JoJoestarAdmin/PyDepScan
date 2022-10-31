@@ -1,3 +1,2 @@
 fonttools
 urllib3
-rdiffweb==0.10.0
