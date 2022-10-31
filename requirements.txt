@@ -1,0 +1,3 @@
+twisted == 1.0.1
+
+urllib3
