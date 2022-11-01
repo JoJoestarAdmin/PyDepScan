@@ -1,0 +1,9 @@
+cython
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+requests
+xlwings
