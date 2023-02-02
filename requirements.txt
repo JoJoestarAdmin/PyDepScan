@@ -1,2 +1,2 @@
-pillows
-rdiffweb=0.10.0
+pyinstaller=5.7.0
+pillow=9.4.0
