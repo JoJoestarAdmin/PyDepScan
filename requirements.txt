@@ -1,2 +1,5 @@
-pillows
-rdiffweb=0.10.0
+pyinstaller==5.7.0
+pillow==9.4.0
+pillow==9.4.0
+matplotlib==3.6.3
+pillow==9.4.0
